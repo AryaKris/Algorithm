@@ -25,9 +25,15 @@ write a  code to create a function that determines whether a number is odd or ev
 
 
 - If num is not evenly divisible by 2, return the string "odd".
+##Image Odd or EVEN
 
+![alt text](https://github.com/AryaKris/Algorithm/blob/main/Odd%20or%20Even/test/Screen%20Shot%202021-11-28%20at%2023.32.20.png)
 
+## Log Nums
 
+- writing code to create a function that prints all whole numbers from 1 to a given number.
+
+- Print all numbers from 1 up to the given nums argument inclusive. For example, given the number 5 as the num argument, the following should be printed to the console, one log at a time.
 
 
 
