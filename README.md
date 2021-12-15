@@ -35,6 +35,9 @@ write a  code to create a function that determines whether a number is odd or ev
 
 - Print all numbers from 1 up to the given nums argument inclusive. For example, given the number 5 as the num argument, the following should be printed to the console, one log at a time.
 
+## Return sum of digits
+
+- You are given a two-digit integer n. Return the sum of its digits. 
 
 
 
