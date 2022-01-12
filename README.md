@@ -39,6 +39,10 @@ write a  code to create a function that determines whether a number is odd or ev
 
 - You are given a two-digit integer n. Return the sum of its digits. 
 
+## Reverse string 
+
+- write a function called reverseString that will accept a string, s, as an argument.
+
 
 
 
