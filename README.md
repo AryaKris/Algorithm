@@ -43,6 +43,10 @@ write a  code to create a function that determines whether a number is odd or ev
 
 - write a function called reverseString that will accept a string, s, as an argument.
 
+## Binary Search
+
+- Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.You must write an algorithm with O(log n) runtime complexity.
+
 
 
 
